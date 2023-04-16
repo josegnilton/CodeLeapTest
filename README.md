@@ -26,6 +26,8 @@ After that everything should be fine to run the project
 npm start
 ```
 
+Note: The server must run in the port 3000. To work properly.
+
 ## Now the cypress
 Open the repository in a terminal
 
@@ -45,5 +47,5 @@ npx cypress open
 It will open a browser that will run your tests, select e2e testing and choose your browser. It should work fine in any browser.
 When the browser is selected, select CodeLeap.cy.js and run.
 
-The tests will start automatically
+The tests will start automatically.
 
